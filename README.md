@@ -35,6 +35,6 @@ configs/
 └── custom.cfg
 ```
 
-`Ghost-Recon-Breakpoint-Save-Manager` · Updated: 2026-10-07
+`Ghost-Recon-Breakpoint-Save-Manager` · Updated: 2026-10-24
 
 **Tags:** `ghost-recon-breakpoint` `save-manager` `tactical` `shooter`
